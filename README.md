@@ -1,6 +1,4 @@
-Hi, I'm Ify! Welcome to my coding journey!
-
-About Me:
+Hi, I'm Ify!
 
 🖥️ I'm an IT coordinator based in London with expertise in video conferencing operating systems and a Software Engineer student learning Python, SQL and Swift UI.
 
