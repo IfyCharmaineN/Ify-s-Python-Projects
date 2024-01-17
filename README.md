@@ -5,11 +5,14 @@ Hi, I'm Ify!
 What You'll Find Here:
 
 Web Scraper Program:
+
 🚀 Collects data from a real webpage with an article that displays the highest grossing companies in the UK.
 
-Let's connect and learn together! Feel free to reach out:
+Finance Calculator:
 
-📧 Email: ify_nwokolo@outlook.com
+📈 A terminal based calculator that calculates the user's investment on a bond or the repayment on a home loan.
+
+Connect with me:
 
 💼 LinkedIn: https://www.linkedin.com/in/ifynwokolo/
 
