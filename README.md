@@ -1,6 +1,6 @@
 Hi, I'm Ify!
 
-🖥️ I'm an IT coordinator based in London with expertise in video conferencing operating systems and a Software Engineer student learning Python, SQL and Swift UI.
+🖥️ I'm an IT coordinator based in London for video conferencing operating systems and a Software Engineer student learning Python, SQL and Swift UI.
 
 What You'll Find Here:
 
