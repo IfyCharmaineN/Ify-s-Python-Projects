@@ -1,8 +1,8 @@
 '''
-I created a web scraping program that collects data from a real webpage with an article that displays the highest grossing companies
-in the UK.
+Leveraged Python and its libraries to extract and organize data from authentic HTML sources.
+Established a comprehensive CSV database showcasing the financial prowess of top-performing UK companies.
 
-This program should show you a database containing:
+The database contains:
 - Company name
 - Ranks
 - Industry
