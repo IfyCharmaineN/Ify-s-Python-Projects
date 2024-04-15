@@ -19,8 +19,3 @@ Connect with me:
 
 Thanks for stopping by! Happy coding! 🚀
 
-Connect with me:
-
-💼 LinkedIn: https://www.linkedin.com/in/ifynwokolo/
-
-Thanks for stopping by! Happy coding! 🚀
