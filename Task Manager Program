@@ -1,0 +1,21 @@
+# Task Manager Program
+
+## Overview
+
+Organisation is key right?
+
+This Task Manager Program is a Python-based application designed to manage tasks efficiently. 
+It allows users to add tasks, edit task details, view tasks assigned to them, and generate comprehensive reports. 
+Admin users have additional capabilities such as editing tasks and generating reports across all users.
+
+## Setup Instructions
+### Prerequisites
+- Python 3.x installed on your system.
+- Access to a command-line interface (CLI) such as Terminal (Mac/Linux) or Command Prompt (Windows).
+- Text editor or IDE (e.g., VS Code, PyCharm) for code editing.
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your/repository.git
+   cd task-manager-program
