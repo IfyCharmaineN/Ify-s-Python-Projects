@@ -10,7 +10,7 @@ Features
 
 ⏰ Deadlines & Reminders: Set deadlines and get reminders, so you never miss a beat.
 
-📈 Progress Tracking: Visualize your progress with our built-in tracking features.
+📈 Report generation: See useful insights to handle tasks more effectively.
 
 🔍 Search Functionality: Quickly find tasks with our powerful search tool.
 
