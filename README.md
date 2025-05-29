@@ -1,7 +1,7 @@
 ## Hi there I'm Ify 👋
 
 
-### 🖥️ I'm an IT coordinator based in London and a Software Engineering student learning Python, SQL, Swift UI and more.
+### 🖥️ I'm an IT coordinator based in London and an Aspiring Business Analyst. Software Engineering allow me to engage with technical stakeholders. Here's some of my projects in Python, SQL, Swift UI and more.
 
 What You'll Find Here:
 
@@ -17,5 +17,5 @@ Connect with me:
 
 💼 LinkedIn: https://www.linkedin.com/in/ifynwokolo/
 
-Thanks for stopping by! Happy coding! 🚀
+
 
