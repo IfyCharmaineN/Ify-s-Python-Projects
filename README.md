@@ -1,7 +1,9 @@
 ## Hi there I'm Ify 👋
 
 
-### 🖥️ I'm an IT coordinator based in London and an Certified Business Analyst. Software Engineering skills allow me to engage with technical stakeholders. Here's some of my projects in Python, SQL, Swift UI and more.
+### 🖥️ I'm an IT coordinator based in London and an Certified Business Analyst. 
+
+Software Engineering skills allow me to engage with technical stakeholders. Here's some of my projects in Python, SQL, Swift UI and more.
 
 What You'll Find Here:
 
